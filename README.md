@@ -1,2 +1,0 @@
-# aya
-echo "hello world"
